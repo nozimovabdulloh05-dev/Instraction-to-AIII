@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Ali",
+    "attendance": 0,
+    "assignments": 5,
+    "grade": 0
+  },
+  {
+    "name": "Vali",
+    "attendance": 60,
+    "assignments": 2,
+    "grade": 2
+  },
+  {
+    "name": "Hasan",
+    "attendance": 80,
+    "assignments": 4,
+    "grade": 4
+  },
+  {
+    "name": "Bekzod",
+    "attendance": 45,
+    "assignments": 1,
+    "grade": 2
+  },
+  {
+    "name": "Jasur",
+    "attendance": 95,
+    "assignments": 5,
+    "grade": 5
+  }
+]
